@@ -1,8 +1,8 @@
 # IMAGURU-DATATHON-2019
 
+__Technical task__:
 
-
-https://docs.google.com/document/d/1IpYbRPMz2oHh4VSj5PMx5ZihH5UZPuVGIWXxmu7ItlY/edit#
+https://docs.google.com/document/d/1IpYbRPMz2oHh4VSj5PMx5ZihH5UZPuVGIWXxmu7ItlY/edit# 
 
 # Антимонопольный закон
 
@@ -96,13 +96,8 @@ https://mart.gov.by/sites/mart/home/search-results.html?jcrMethodToCall=get&src_
 - Modifu UI to proper mockups
 
 
-# Presentations and mockups
-
-https://www.figma.com/proto/8KFSfxH1cFv9Xuqm4R8Jse/SPP-desrign?node-id=121%3A485&scaling=min-zoom
-
-https://www.figma.com/file/8KFSfxH1cFv9Xuqm4R8Jse/SPP-design?node-id=0%3A1
-
-https://docs.google.com/document/d/1IpYbRPMz2oHh4VSj5PMx5ZihH5UZPuVGIWXxmu7ItlY/edit
+# Presentation:
 
 
-https://youtu.be/7sVq39EhWSI?t=24211
+
+
