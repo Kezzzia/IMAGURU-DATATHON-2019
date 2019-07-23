@@ -1,0 +1,43 @@
+{
+    "entries" :[
+        {
+            "entryUrl" : "https://mart.gov.by/sites/mart/home/activities/komission.html",
+            "group" : "Решения",
+            "insititute": "Антимонопольный орган",
+            "parserName":"mart-resehnia.js"
+        },
+        {
+            "entryUrl" : "http://www.court.gov.by/ru/resheniya/sudebnoj/kollegii/po/ekonomicheskim/delam/verhovnogo/suda/",
+            "group" : "Решения",
+            "insititute":"Верховный суд",
+            "parserName":"verh-sud.js1",
+            "classifierName":"monpoly-not.js"
+        },
+        {
+            "entryUrl" : "https://mart.gov.by/sites/mart/home/activities/antimonopoly_reg/predosterezhenie_preduprezhdenie.htm",
+            "group" : "Предупреждения и предостережения",
+            "insititute": "Антимонопольный орган",
+            "parserName":"mart-resehnia.js"
+        },
+        {
+            "entryUrl" : "https://mart.gov.by/sites/mart/home/activities/antimonopoly_reg/razyasnenia.html",
+            "group" : "Разъяснения",
+            "insititute": "Антимонопольный орган",
+            "parserName":"mart-reziasnenia.js"
+        },
+        {
+            "entryUrl" : "http://pravo.by/",
+            "group" : "Разъяснения",
+            "insititute": "Сервис",
+            "parserName":"pravo-reziasnenia.js",
+            "classifierName":"pravo-reziasnenia-classifier.js"
+        },
+        {
+            "entryUrl" : "новости?",
+            "group" : "Разъяснения",
+            "insititute": "Пресса",
+            "parserName":"?-reziasnenia.js",
+            "classifierName":["monpoly-not.js", "?-reziasnenia-classifier.js"]
+        }
+    ]
+}
